@@ -1,0 +1,571 @@
+﻿row_number,academic_season,season,week,date,time,day,winner,winner_points,loser,loser_points,point_margin,winner_was_away,neutral_site,postseason_in_2021,covid_affected_season,covid_note_present,notes,rank,calendar_year,source_url
+1,2020-2021,2020,1,2020-09-03,8:00 PM,Thu,Alabama-Birmingham,45,Central Arkansas,35,10,False,False,False,True,False,,1,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+2,2020-2021,2020,1,2020-09-03,8:00 PM,Thu,South Alabama,32,Southern Mississippi,21,11,True,False,False,True,False,,2,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+3,2020-2021,2020,1,2020-09-05,1:00 PM,Sat,Marshall,59,Eastern Kentucky,0,59,False,False,False,True,False,,4,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+4,2020-2021,2020,1,2020-09-05,1:30 PM,Sat,Army,42,Middle Tennessee State,0,42,False,False,False,True,False,,3,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+5,2020-2021,2020,1,2020-09-05,4:30 PM,Sat,Southern Methodist,31,Texas State,24,7,True,False,False,True,False,,7,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+6,2020-2021,2020,1,2020-09-05,7:30 PM,Sat,North Texas,57,Houston Baptist,31,26,False,False,False,True,False,,6,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+7,2020-2021,2020,1,2020-09-05,8:00 PM,Sat,Memphis,37,Arkansas State,24,13,False,False,False,True,False,,5,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+8,2020-2021,2020,1,2020-09-05,9:00 PM,Sat,Texas-El Paso,24,Stephen F. Austin,14,10,False,False,False,True,False,,8,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+9,2020-2021,2020,1,2020-09-07,8:00 PM,Mon,Brigham Young,55,Navy,3,52,True,False,False,True,False,,9,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+10,2020-2021,2020,2,2020-09-10,8:00 PM,Thu,Miami (FL),31,Alabama-Birmingham,14,17,False,False,False,True,False,,10,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+11,2020-2021,2020,2,2020-09-12,10:00 PM,Sat,Coastal Carolina,38,Kansas,23,15,True,False,False,True,False,,15,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+12,2020-2021,2020,2,2020-09-12,12:00 PM,Sat,Appalachian State,35,Charlotte,20,15,False,False,False,True,False,,11,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+13,2020-2021,2020,2,2020-09-12,12:00 PM,Sat,Arkansas State,35,Kansas State,31,4,True,False,False,True,False,,12,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+14,2020-2021,2020,2,2020-09-12,12:00 PM,Sat,Louisiana,31,(23) Iowa State,14,17,True,False,False,True,False,,18,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+15,2020-2021,2020,2,2020-09-12,12:00 PM,Sat,(18) North Carolina,31,Syracuse,6,25,False,False,False,True,False,,20,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+16,2020-2021,2020,2,2020-09-12,12:00 PM,Sat,West Virginia,56,Eastern Kentucky,10,46,False,False,False,True,False,,29,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+17,2020-2021,2020,2,2020-09-12,1:30 PM,Sat,Army,37,Louisiana-Monroe,7,30,False,False,False,True,False,,13,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+18,2020-2021,2020,2,2020-09-12,2:30 PM,Sat,(10) Notre Dame,27,Duke,13,14,False,False,False,True,False,,21,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+19,2020-2021,2020,2,2020-09-12,3:30 PM,Sat,Georgia Southern,27,Campbell,26,1,False,False,False,True,False,,16,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+20,2020-2021,2020,2,2020-09-12,3:30 PM,Sat,Georgia Tech,16,Florida State,13,3,True,False,False,True,False,,17,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+21,2020-2021,2020,2,2020-09-12,3:30 PM,Sat,Texas-San Antonio,51,Texas State,48,3,True,False,False,True,False,,27,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+22,2020-2021,2020,2,2020-09-12,4:00 PM,Sat,Pittsburgh,55,Austin Peay,0,55,False,False,False,True,False,,23,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+23,2020-2021,2020,2,2020-09-12,7:00 PM,Sat,(5) Oklahoma,48,Missouri State,0,48,False,False,False,True,False,,22,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+24,2020-2021,2020,2,2020-09-12,7:00 PM,Sat,South Florida,27,Citadel,6,21,False,False,False,True,False,,24,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+25,2020-2021,2020,2,2020-09-12,7:30 PM,Sat,(1) Clemson,37,Wake Forest,13,24,True,False,False,True,False,,14,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+26,2020-2021,2020,2,2020-09-12,7:30 PM,Sat,Tulane,27,South Alabama,24,3,True,False,False,True,False,,28,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+27,2020-2021,2020,2,2020-09-12,8:00 PM,Sat,Louisville,35,Western Kentucky,21,14,False,False,False,True,False,,19,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+28,2020-2021,2020,2,2020-09-12,8:00 PM,Sat,(14) Texas,59,Texas-El Paso,3,56,False,False,False,True,False,,25,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+29,2020-2021,2020,2,2020-09-12,8:00 PM,Sat,Texas Tech,35,Houston Baptist,33,2,False,False,False,True,False,,26,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+30,2020-2021,2020,3,2020-09-18,12:00 PM,Fri,Coastal Carolina,43,Campbell,21,22,False,False,False,True,False,,30,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+31,2020-2021,2020,3,2020-09-19,12:00 PM,Sat,Boston College,26,Duke,6,20,True,False,False,True,False,,31,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+32,2020-2021,2020,3,2020-09-19,12:00 PM,Sat,(13) Cincinnati,55,Austin Peay,20,35,False,False,False,True,False,,33,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+33,2020-2021,2020,3,2020-09-19,12:00 PM,Sat,Liberty,30,Western Kentucky,24,6,True,False,False,True,False,,35,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+34,2020-2021,2020,3,2020-09-19,12:00 PM,Sat,Louisiana,34,Georgia State,31,3,True,False,False,True,False,,36,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+35,2020-2021,2020,3,2020-09-19,12:00 PM,Sat,Navy,27,Tulane,24,3,True,False,False,True,False,,40,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+36,2020-2021,2020,3,2020-09-19,12:00 PM,Sat,(11) Oklahoma State,16,Tulsa,7,9,False,False,False,True,False,,43,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+37,2020-2021,2020,3,2020-09-19,12:00 PM,Sat,(25) Pittsburgh,21,Syracuse,10,11,False,False,False,True,False,,44,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+38,2020-2021,2020,3,2020-09-19,2:30 PM,Sat,(7) Notre Dame,52,South Florida,0,52,False,False,False,True,False,,42,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+39,2020-2021,2020,3,2020-09-19,3:00 PM,Sat,Texas-San Antonio,24,Stephen F. Austin,10,14,False,False,False,True,False,,48,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+40,2020-2021,2020,3,2020-09-19,3:30 PM,Sat,(14) Central Florida,49,Georgia Tech,21,28,True,False,False,True,False,,32,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+41,2020-2021,2020,3,2020-09-19,3:30 PM,Sat,Marshall,17,(23) Appalachian State,7,10,False,False,False,True,False,,38,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+42,2020-2021,2020,3,2020-09-19,4:00 PM,Sat,(1) Clemson,49,Citadel,0,49,False,False,False,True,False,,34,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+43,2020-2021,2020,3,2020-09-19,4:00 PM,Sat,Troy,47,Middle Tennessee State,14,33,True,False,False,True,False,,49,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+44,2020-2021,2020,3,2020-09-19,6:00 PM,Sat,Southern Methodist,65,North Texas,35,30,True,False,False,True,False,,45,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+45,2020-2021,2020,3,2020-09-19,7:30 PM,Sat,Louisiana Tech,31,Southern Mississippi,30,1,True,False,False,True,False,,37,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+46,2020-2021,2020,3,2020-09-19,7:30 PM,Sat,(17) Miami (FL),47,(18) Louisville,34,13,True,False,False,True,False,,39,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+47,2020-2021,2020,3,2020-09-19,7:30 PM,Sat,Texas State,38,Louisiana-Monroe,17,21,True,False,False,True,False,,46,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+48,2020-2021,2020,3,2020-09-19,8:00 PM,Sat,North Carolina State,45,Wake Forest,42,3,False,False,False,True,False,,41,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+49,2020-2021,2020,3,2020-09-19,9:00 PM,Sat,Texas-El Paso,17,Abilene Christian,13,4,False,False,False,True,False,,47,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+50,2020-2021,2020,4,2020-09-24,12:00 PM,Thu,Alabama-Birmingham,42,South Alabama,10,32,True,False,False,True,False,,50,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+51,2020-2021,2020,4,2020-09-25,8:00 PM,Fri,Texas-San Antonio,37,Middle Tennessee State,35,2,False,False,False,True,False,,51,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+52,2020-2021,2020,4,2020-09-26,10:15 PM,Sat,(18) Brigham Young,48,Troy,7,41,False,False,False,True,False,,57,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+53,2020-2021,2020,4,2020-09-26,12:00 PM,Sat,Appalachian State,52,Campbell,21,31,False,False,False,True,False,,53,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+54,2020-2021,2020,4,2020-09-26,12:00 PM,Sat,(8) Auburn,29,(23) Kentucky,13,16,False,False,False,True,False,,54,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+55,2020-2021,2020,4,2020-09-26,12:00 PM,Sat,(13) Central Florida,51,East Carolina,28,23,True,False,False,True,False,,58,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+56,2020-2021,2020,4,2020-09-26,12:00 PM,Sat,(5) Florida,51,Mississippi,35,16,True,False,False,True,False,,60,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+57,2020-2021,2020,4,2020-09-26,12:00 PM,Sat,Kansas State,38,(3) Oklahoma,35,3,True,False,False,True,False,,63,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+58,2020-2021,2020,4,2020-09-26,12:00 PM,Sat,(19) Louisiana,20,Georgia Southern,18,2,False,False,False,True,False,,65,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+59,2020-2021,2020,4,2020-09-26,12:00 PM,Sat,(21) Pittsburgh,23,(24) Louisville,20,3,False,False,False,True,False,,70,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+60,2020-2021,2020,4,2020-09-26,12:00 PM,Sat,Syracuse,37,Georgia Tech,20,17,False,False,False,True,False,,72,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+61,2020-2021,2020,4,2020-09-26,12:00 PM,Sat,Virginia,38,Duke,20,18,False,False,False,True,False,,78,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+62,2020-2021,2020,4,2020-09-26,1:00 PM,Sat,Liberty,36,Florida International,34,2,False,False,False,True,False,,64,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+63,2020-2021,2020,4,2020-09-26,1:30 PM,Sat,Iowa State,37,Texas Christian,34,3,True,False,False,True,False,,62,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+64,2020-2021,2020,4,2020-09-26,2:30 PM,Sat,Tulane,66,Southern Mississippi,24,42,True,False,False,True,False,,77,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+65,2020-2021,2020,4,2020-09-26,3:30 PM,Sat,(14) Cincinnati,24,(22) Army,10,14,False,False,False,True,False,,59,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+66,2020-2021,2020,4,2020-09-26,3:30 PM,Sat,Mississippi State,44,(6) Louisiana State,34,10,True,False,False,True,False,,68,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+67,2020-2021,2020,4,2020-09-26,3:30 PM,Sat,(15) Oklahoma State,27,West Virginia,13,14,False,False,False,True,False,,69,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+68,2020-2021,2020,4,2020-09-26,3:30 PM,Sat,(8) Texas,63,Texas Tech,56,7,True,False,False,True,False,,74,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+69,2020-2021,2020,4,2020-09-26,3:30 PM,Sat,Texas-El Paso,31,Louisiana-Monroe,6,25,True,False,False,True,False,,76,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+70,2020-2021,2020,4,2020-09-26,4:00 PM,Sat,(4) Georgia,37,Arkansas,10,27,True,False,False,True,False,,61,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+71,2020-2021,2020,4,2020-09-26,6:00 PM,Sat,Boston College,24,Texas State,21,3,False,False,False,True,False,,56,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+72,2020-2021,2020,4,2020-09-26,7:00 PM,Sat,(2) Alabama,38,Missouri,19,19,True,False,False,True,False,,52,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+73,2020-2021,2020,4,2020-09-26,7:00 PM,Sat,Louisiana Tech,66,Houston Baptist,38,28,False,False,False,True,False,,66,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+74,2020-2021,2020,4,2020-09-26,7:00 PM,Sat,Southern Methodist,50,Stephen F. Austin,7,43,False,False,False,True,False,,71,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+75,2020-2021,2020,4,2020-09-26,7:30 PM,Sat,Baylor,47,Kansas,14,33,False,False,False,True,False,,55,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+76,2020-2021,2020,4,2020-09-26,7:30 PM,Sat,(12) Miami (FL),52,Florida State,10,42,False,False,False,True,False,,67,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+77,2020-2021,2020,4,2020-09-26,7:30 PM,Sat,(16) Tennessee,31,South Carolina,27,4,True,False,False,True,False,,73,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+78,2020-2021,2020,4,2020-09-26,7:30 PM,Sat,(10) Texas A&M,17,Vanderbilt,12,5,False,False,False,True,False,,75,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+79,2020-2021,2020,4,2020-09-26,8:00 PM,Sat,(20) Virginia Tech,45,North Carolina State,24,21,False,False,False,True,False,,79,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+80,2020-2021,2020,5,2020-10-02,8:00 PM,Fri,Wake Forest,66,Campbell,14,52,False,False,False,True,False,,81,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+81,2020-2021,2020,5,2020-10-02,9:00 PM,Fri,(22) Brigham Young,45,Louisiana Tech,14,31,False,False,False,True,False,,80,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+82,2020-2021,2020,5,2020-10-03,12:00 PM,Sat,Coastal Carolina,52,Arkansas State,23,29,False,False,False,True,False,,89,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+83,2020-2021,2020,5,2020-10-03,12:00 PM,Sat,(3) Florida,38,South Carolina,24,14,False,False,False,True,False,,90,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+84,2020-2021,2020,5,2020-10-03,12:00 PM,Sat,Georgia State,49,East Carolina,29,20,False,False,False,True,False,,95,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+85,2020-2021,2020,5,2020-10-03,12:00 PM,Sat,North Carolina State,30,(24) Pittsburgh,29,1,True,False,False,True,False,,102,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+86,2020-2021,2020,5,2020-10-03,12:00 PM,Sat,(21) Tennessee,35,Missouri,12,23,False,False,False,True,False,,106,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+87,2020-2021,2020,5,2020-10-03,12:00 PM,Sat,Texas Christian,33,(9) Texas,31,2,True,False,False,True,False,,107,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+88,2020-2021,2020,5,2020-10-03,12:00 PM,Sat,West Virginia,27,Baylor,21,6,False,False,False,True,False,,110,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+89,2020-2021,2020,5,2020-10-03,12:30 PM,Sat,Alabama-Birmingham,21,Texas-San Antonio,13,8,False,False,False,True,False,,84,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+90,2020-2021,2020,5,2020-10-03,1:00 PM,Sat,Liberty,28,North Alabama,7,21,False,False,False,True,False,"Williams Stadium - Lynchburg, Virginia",98,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+91,2020-2021,2020,5,2020-10-03,1:30 PM,Sat,Army,55,Abilene Christian,23,32,False,False,False,True,False,,86,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+92,2020-2021,2020,5,2020-10-03,3:30 PM,Sat,(2) Alabama,52,(13) Texas A&M,24,28,False,False,False,True,False,,83,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+93,2020-2021,2020,5,2020-10-03,3:30 PM,Sat,(15) Cincinnati,28,South Florida,7,21,False,False,False,True,False,,87,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+94,2020-2021,2020,5,2020-10-03,3:30 PM,Sat,Kansas State,31,Texas Tech,21,10,False,False,False,True,False,,97,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+95,2020-2021,2020,5,2020-10-03,3:30 PM,Sat,(12) North Carolina,26,Boston College,22,4,True,False,False,True,False,,101,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+96,2020-2021,2020,5,2020-10-03,3:30 PM,Sat,(17) Oklahoma State,47,Kansas,7,40,True,False,False,True,False,,103,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+97,2020-2021,2020,5,2020-10-03,3:30 PM,Sat,Southern Methodist,30,(25) Memphis,27,3,False,False,False,True,False,,104,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+98,2020-2021,2020,5,2020-10-03,4:00 PM,Sat,Florida Atlantic,21,Charlotte,17,4,False,False,False,True,False,,91,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+99,2020-2021,2020,5,2020-10-03,4:00 PM,Sat,Florida State,41,Jacksonville State,24,17,False,False,False,True,False,,92,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+100,2020-2021,2020,5,2020-10-03,4:00 PM,Sat,Mississippi,42,Kentucky,41,1,True,False,False,True,False,,100,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+101,2020-2021,2020,5,2020-10-03,4:00 PM,Sat,Virginia Tech,38,Duke,31,7,True,False,False,True,False,,109,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+102,2020-2021,2020,5,2020-10-03,5:00 PM,Sat,Western Kentucky,20,Middle Tennessee State,17,3,True,False,False,True,False,,111,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+103,2020-2021,2020,5,2020-10-03,6:00 PM,Sat,Air Force,40,Navy,7,33,False,False,False,True,False,,82,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+104,2020-2021,2020,5,2020-10-03,7:00 PM,Sat,Georgia Southern,35,Louisiana-Monroe,30,5,True,False,False,True,False,,94,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+105,2020-2021,2020,5,2020-10-03,7:30 PM,Sat,Arkansas,21,(16) Mississippi State,14,7,True,False,False,True,False,,85,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+106,2020-2021,2020,5,2020-10-03,7:30 PM,Sat,(4) Georgia,27,(7) Auburn,6,21,False,False,False,True,False,,93,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+107,2020-2021,2020,5,2020-10-03,7:30 PM,Sat,Iowa State,37,(18) Oklahoma,30,7,False,False,False,True,False,,96,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+108,2020-2021,2020,5,2020-10-03,7:30 PM,Sat,(20) Louisiana State,41,Vanderbilt,7,34,True,False,False,True,False,,99,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+109,2020-2021,2020,5,2020-10-03,7:30 PM,Sat,Southern Mississippi,41,North Texas,31,10,True,False,False,True,False,,105,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+110,2020-2021,2020,5,2020-10-03,7:30 PM,Sat,Tulsa,34,(11) Central Florida,26,8,True,False,False,True,False,,108,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+111,2020-2021,2020,5,2020-10-03,8:00 PM,Sat,(1) Clemson,41,Virginia,23,18,False,False,False,True,False,,88,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+112,2020-2021,2020,6,2020-10-08,7:30 PM,Thu,Houston,49,Tulane,31,18,False,False,False,True,False,,112,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+113,2020-2021,2020,6,2020-10-09,7:00 PM,Fri,Georgia Tech,46,Louisville,27,19,False,False,False,True,False,,113,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+114,2020-2021,2020,6,2020-10-10,12:00 PM,Sat,Liberty,40,Louisiana-Monroe,7,33,False,False,False,True,False,,128,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+115,2020-2021,2020,6,2020-10-10,12:00 PM,Sat,(8) North Carolina,56,(19) Virginia Tech,45,11,False,False,False,True,False,,134,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+116,2020-2021,2020,6,2020-10-10,12:00 PM,Sat,North Carolina State,38,Virginia,21,17,True,False,False,True,False,,135,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+117,2020-2021,2020,6,2020-10-10,12:00 PM,Sat,Oklahoma,53,(22) Texas,45,8,False,True,False,True,False,"Cotton Bowl - Dallas, Texas",137,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+118,2020-2021,2020,6,2020-10-10,12:00 PM,Sat,South Carolina,41,Vanderbilt,7,34,True,False,False,True,False,,138,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+119,2020-2021,2020,6,2020-10-10,12:00 PM,Sat,(21) Texas A&M,41,(4) Florida,38,3,False,False,False,True,False,,139,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+120,2020-2021,2020,6,2020-10-10,12:30 PM,Sat,Duke,38,Syracuse,24,14,True,False,False,True,False,,122,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+121,2020-2021,2020,6,2020-10-10,1:30 PM,Sat,Army,14,Citadel,9,5,False,False,False,True,False,,116,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+122,2020-2021,2020,6,2020-10-10,3:30 PM,Sat,Arkansas State,50,Central Arkansas,27,23,False,False,False,True,False,,115,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+123,2020-2021,2020,6,2020-10-10,3:30 PM,Sat,(15) Brigham Young,27,Texas-San Antonio,20,7,False,False,False,True,False,,119,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+124,2020-2021,2020,6,2020-10-10,3:30 PM,Sat,(3) Georgia,44,(14) Tennessee,21,23,False,False,False,True,False,,124,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+125,2020-2021,2020,6,2020-10-10,3:30 PM,Sat,(24) Iowa State,31,Texas Tech,15,16,False,False,False,True,False,,125,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+126,2020-2021,2020,6,2020-10-10,3:30 PM,Sat,Troy,37,Texas State,17,20,False,False,False,True,False,"Veterans Memorial Stadium - Troy, Alabama",140,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+127,2020-2021,2020,6,2020-10-10,4:00 PM,Sat,(13) Auburn,30,Arkansas,28,2,False,False,False,True,False,,117,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+128,2020-2021,2020,6,2020-10-10,4:00 PM,Sat,Boston College,31,Pittsburgh,30,1,False,False,False,True,False,,118,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+129,2020-2021,2020,6,2020-10-10,4:00 PM,Sat,Kansas State,21,Texas Christian,14,7,True,False,False,True,False,,126,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+130,2020-2021,2020,6,2020-10-10,4:00 PM,Sat,Middle Tennessee State,31,Florida International,28,3,True,False,False,True,False,,131,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+131,2020-2021,2020,6,2020-10-10,6:00 PM,Sat,(2) Alabama,63,Mississippi,48,15,True,False,False,True,False,,114,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+132,2020-2021,2020,6,2020-10-10,6:00 PM,Sat,Navy,31,Temple,29,2,False,False,False,True,False,,133,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+133,2020-2021,2020,6,2020-10-10,7:00 PM,Sat,East Carolina,44,South Florida,24,20,True,False,False,True,False,,123,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+134,2020-2021,2020,6,2020-10-10,7:30 PM,Sat,(1) Clemson,42,(7) Miami (FL),17,25,False,False,False,True,False,,121,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+135,2020-2021,2020,6,2020-10-10,7:30 PM,Sat,Kentucky,24,Mississippi State,2,22,False,False,False,True,False,,127,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+136,2020-2021,2020,6,2020-10-10,7:30 PM,Sat,Louisiana Tech,21,Texas-El Paso,17,4,False,False,False,True,False,,129,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+137,2020-2021,2020,6,2020-10-10,7:30 PM,Sat,Marshall,38,Western Kentucky,14,24,True,False,False,True,False,,130,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+138,2020-2021,2020,6,2020-10-10,7:30 PM,Sat,(5) Notre Dame,42,Florida State,26,16,False,False,False,True,False,,136,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+139,2020-2021,2020,6,2020-10-10,8:00 PM,Sat,Charlotte,49,North Texas,21,28,True,False,False,True,False,,120,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+140,2020-2021,2020,6,2020-10-10,9:00 PM,Sat,Missouri,45,(17) Louisiana State,41,4,False,False,False,True,False,,132,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+141,2020-2021,2020,7,2020-10-14,12:00 PM,Wed,Coastal Carolina,30,(21) Louisiana,27,3,True,False,False,True,False,,141,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+142,2020-2021,2020,7,2020-10-15,7:30 PM,Thu,Arkansas State,59,Georgia State,52,7,False,False,False,True,False,,142,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+143,2020-2021,2020,7,2020-10-16,12:00 PM,Fri,(15) Brigham Young,43,Houston,26,17,True,False,False,True,False,,143,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+144,2020-2021,2020,7,2020-10-16,6:00 PM,Fri,(17) Southern Methodist,37,Tulane,34,3,True,False,False,True,False,,144,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+145,2020-2021,2020,7,2020-10-17,12:00 PM,Sat,(1) Clemson,73,Georgia Tech,7,66,True,False,False,True,False,,149,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+146,2020-2021,2020,7,2020-10-17,12:00 PM,Sat,Kentucky,34,(18) Tennessee,7,27,True,False,False,True,False,,152,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+147,2020-2021,2020,7,2020-10-17,12:00 PM,Sat,Liberty,38,Syracuse,21,17,True,False,False,True,False,,153,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+148,2020-2021,2020,7,2020-10-17,12:00 PM,Sat,(13) Miami (FL),31,Pittsburgh,19,12,False,False,False,True,False,,156,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+149,2020-2021,2020,7,2020-10-17,12:00 PM,Sat,Navy,27,East Carolina,23,4,True,False,False,True,False,,157,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+150,2020-2021,2020,7,2020-10-17,12:00 PM,Sat,South Alabama,30,Texas State,20,10,False,False,False,True,False,,161,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+151,2020-2021,2020,7,2020-10-17,12:00 PM,Sat,South Carolina,30,(14) Auburn,22,8,False,False,False,True,False,,162,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+152,2020-2021,2020,7,2020-10-17,12:00 PM,Sat,Temple,39,South Florida,37,2,False,False,False,True,False,,163,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+153,2020-2021,2020,7,2020-10-17,12:00 PM,Sat,West Virginia,38,Kansas,17,21,False,False,False,True,False,,168,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+154,2020-2021,2020,7,2020-10-17,1:30 PM,Sat,Alabama-Birmingham,37,Western Kentucky,14,23,False,False,False,True,False,,146,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+155,2020-2021,2020,7,2020-10-17,1:30 PM,Sat,Army,28,Texas-San Antonio,16,12,True,False,False,True,False,,148,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+156,2020-2021,2020,7,2020-10-17,2:30 PM,Sat,(4) Notre Dame,12,Louisville,7,5,False,False,False,True,False,,160,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+157,2020-2021,2020,7,2020-10-17,3:30 PM,Sat,Arkansas,33,Mississippi,21,12,False,False,False,True,False,,147,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+158,2020-2021,2020,7,2020-10-17,3:30 PM,Sat,Memphis,50,Central Florida,49,1,False,False,False,True,False,,155,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+159,2020-2021,2020,7,2020-10-17,3:30 PM,Sat,North Carolina State,31,Duke,20,11,False,False,False,True,False,,158,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+160,2020-2021,2020,7,2020-10-17,3:30 PM,Sat,Troy,31,Eastern Kentucky,29,2,False,False,False,True,False,,165,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+161,2020-2021,2020,7,2020-10-17,4:00 PM,Sat,Georgia Southern,41,Massachusetts,0,41,False,False,False,True,False,,151,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+162,2020-2021,2020,7,2020-10-17,4:00 PM,Sat,(11) Texas A&M,28,Mississippi State,14,14,True,False,False,True,False,,164,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+163,2020-2021,2020,7,2020-10-17,4:00 PM,Sat,Wake Forest,40,Virginia,23,17,False,False,False,True,False,,167,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+164,2020-2021,2020,7,2020-10-17,5:00 PM,Sat,North Texas,52,Middle Tennessee State,35,17,True,False,False,True,False,,159,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+165,2020-2021,2020,7,2020-10-17,6:00 PM,Sat,Marshall,35,Louisiana Tech,17,18,True,False,False,True,False,,154,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+166,2020-2021,2020,7,2020-10-17,7:30 PM,Sat,Florida State,31,(5) North Carolina,28,3,False,False,False,True,False,,150,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+167,2020-2021,2020,7,2020-10-17,8:00 PM,Sat,(2) Alabama,41,(3) Georgia,24,17,False,False,False,True,False,,145,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+168,2020-2021,2020,7,2020-10-17,8:00 PM,Sat,(23) Virginia Tech,40,Boston College,14,26,False,False,False,True,False,,166,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+169,2020-2021,2020,8,2020-10-22,7:30 PM,Thu,Appalachian State,45,Arkansas State,17,28,False,False,False,True,False,,169,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+170,2020-2021,2020,8,2020-10-23,12:00 PM,Fri,(14) Wisconsin,45,Illinois,7,38,False,False,False,True,False,,173,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+171,2020-2021,2020,8,2020-10-23,7:00 PM,Fri,Jacksonville State,19,Florida International,10,9,True,False,False,True,False,,170,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+172,2020-2021,2020,8,2020-10-23,7:30 PM,Fri,Tulsa,42,South Florida,13,29,True,False,False,True,False,,172,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+173,2020-2021,2020,8,2020-10-23,8:00 PM,Fri,Louisiana,24,Alabama-Birmingham,20,4,True,False,False,True,False,,171,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+174,2020-2021,2020,8,2020-10-24,10:15 PM,Sat,(12) Brigham Young,52,Texas State,14,38,False,False,False,True,False,,179,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+175,2020-2021,2020,8,2020-10-24,10:30 PM,Sat,San Diego State,34,Nevada-Las Vegas,6,28,False,False,False,True,False,,208,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+176,2020-2021,2020,8,2020-10-24,10:30 PM,Sat,San Jose State,17,Air Force,6,11,False,False,False,True,False,,209,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+177,2020-2021,2020,8,2020-10-24,12:00 PM,Sat,Army,49,Mercer,3,46,False,False,False,True,False,,175,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+178,2020-2021,2020,8,2020-10-24,12:00 PM,Sat,Auburn,35,Mississippi,28,7,True,False,False,True,False,,176,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+179,2020-2021,2020,8,2020-10-24,12:00 PM,Sat,Charlotte,38,Texas-El Paso,28,10,False,False,False,True,False,,181,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+180,2020-2021,2020,8,2020-10-24,12:00 PM,Sat,(1) Clemson,47,Syracuse,21,26,False,False,False,True,False,,183,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+181,2020-2021,2020,8,2020-10-24,12:00 PM,Sat,(25) Coastal Carolina,28,Georgia Southern,14,14,False,False,False,True,False,,184,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+182,2020-2021,2020,8,2020-10-24,12:00 PM,Sat,(20) Kansas State,55,Kansas,14,41,False,False,False,True,False,,189,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+183,2020-2021,2020,8,2020-10-24,12:00 PM,Sat,Louisville,48,Florida State,16,32,False,False,False,True,False,,192,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+184,2020-2021,2020,8,2020-10-24,12:00 PM,Sat,Memphis,41,Temple,29,12,False,False,False,True,False,,194,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+185,2020-2021,2020,8,2020-10-24,12:00 PM,Sat,(14) North Carolina,48,(23) North Carolina State,21,27,False,False,False,True,False,,200,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+186,2020-2021,2020,8,2020-10-24,12:00 PM,Sat,(5) Ohio State,52,Nebraska,17,35,False,False,False,True,False,,203,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+187,2020-2021,2020,8,2020-10-24,12:00 PM,Sat,Oklahoma,33,Texas Christian,14,19,True,False,False,True,False,,204,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+188,2020-2021,2020,8,2020-10-24,12:00 PM,Sat,Rutgers,38,Michigan State,27,11,True,False,False,True,False,,207,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+189,2020-2021,2020,8,2020-10-24,1:00 PM,Sat,Liberty,56,Southern Mississippi,35,21,False,False,False,True,False,,190,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+190,2020-2021,2020,8,2020-10-24,2:00 PM,Sat,Central Florida,51,Tulane,34,17,False,False,False,True,False,,180,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+191,2020-2021,2020,8,2020-10-24,2:30 PM,Sat,(22) Marshall,20,Florida Atlantic,9,11,False,False,False,True,False,,193,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+192,2020-2021,2020,8,2020-10-24,3:30 PM,Sat,(2) Alabama,48,Tennessee,17,31,True,False,False,True,False,,174,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+193,2020-2021,2020,8,2020-10-24,3:30 PM,Sat,Houston,37,Navy,21,16,True,False,False,True,False,,187,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+194,2020-2021,2020,8,2020-10-24,3:30 PM,Sat,Indiana,36,(8) Penn State,35,1,False,False,False,True,False,,188,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+195,2020-2021,2020,8,2020-10-24,3:30 PM,Sat,Middle Tennessee State,40,Rice,34,6,True,False,False,True,False,,197,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+196,2020-2021,2020,8,2020-10-24,3:30 PM,Sat,(3) Notre Dame,45,Pittsburgh,3,42,True,False,False,True,False,,202,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+197,2020-2021,2020,8,2020-10-24,3:30 PM,Sat,(6) Oklahoma State,24,(17) Iowa State,21,3,False,False,False,True,False,,205,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+198,2020-2021,2020,8,2020-10-24,3:30 PM,Sat,Purdue,24,Iowa,20,4,False,False,False,True,False,,206,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+199,2020-2021,2020,8,2020-10-24,3:30 PM,Sat,Texas,27,Baylor,16,11,False,False,False,True,False,,211,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+200,2020-2021,2020,8,2020-10-24,3:30 PM,Sat,Wake Forest,23,(19) Virginia Tech,16,7,False,False,False,True,False,,214,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+201,2020-2021,2020,8,2020-10-24,4:00 PM,Sat,Boston College,48,Georgia Tech,27,21,False,False,False,True,False,,178,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+202,2020-2021,2020,8,2020-10-24,4:00 PM,Sat,Georgia State,36,Troy,34,2,True,False,False,True,False,,185,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+203,2020-2021,2020,8,2020-10-24,4:00 PM,Sat,Missouri,20,Kentucky,10,10,False,False,False,True,False,"Faurot Field at Memorial Stadium - Columbia, Missouri",198,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+204,2020-2021,2020,8,2020-10-24,4:00 PM,Sat,Western Kentucky,13,Chattanooga,10,3,False,False,False,True,False,,215,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+205,2020-2021,2020,8,2020-10-24,5:30 PM,Sat,Texas Tech,34,West Virginia,27,7,False,False,False,True,False,,212,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+206,2020-2021,2020,8,2020-10-24,7:00 PM,Sat,Boise State,42,Utah State,13,29,False,False,False,True,False,,177,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+207,2020-2021,2020,8,2020-10-24,7:00 PM,Sat,Louisiana State,52,South Carolina,24,28,False,False,False,True,False,,191,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+208,2020-2021,2020,8,2020-10-24,7:00 PM,Sat,Nevada,37,Wyoming,34,3,False,False,False,True,False,,199,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+209,2020-2021,2020,8,2020-10-24,7:00 PM,Sat,South Alabama,38,Louisiana-Monroe,14,24,False,False,False,True,False,"Hancock Whitney Stadium - Mobile, Alabama",210,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+210,2020-2021,2020,8,2020-10-24,7:30 PM,Sat,Hawaii,34,Fresno State,19,15,True,False,False,True,False,,186,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+211,2020-2021,2020,8,2020-10-24,7:30 PM,Sat,(18) Michigan,49,(21) Minnesota,24,25,True,False,False,True,False,,196,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+212,2020-2021,2020,8,2020-10-24,7:30 PM,Sat,Northwestern,43,Maryland,3,40,False,False,False,True,False,,201,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+213,2020-2021,2020,8,2020-10-24,8:00 PM,Sat,(11) Miami (FL),19,Virginia,14,5,False,False,False,True,False,,195,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+214,2020-2021,2020,8,2020-10-24,8:00 PM,Sat,Texas-San Antonio,27,Louisiana Tech,26,1,False,False,False,True,False,,213,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+215,2020-2021,2020,8,2020-10-24,9:00 PM,Sat,(9) Cincinnati,42,(16) Southern Methodist,13,29,True,False,False,True,False,,182,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+216,2020-2021,2020,9,2020-10-29,12:00 PM,Thu,Fresno State,38,Colorado State,17,21,False,False,False,True,False,,216,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+217,2020-2021,2020,9,2020-10-29,12:00 PM,Thu,Georgia Southern,24,South Alabama,17,7,False,False,False,True,False,,217,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+218,2020-2021,2020,9,2020-10-30,12:00 PM,Fri,Maryland,45,Minnesota,44,1,False,False,False,True,False,,218,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+219,2020-2021,2020,9,2020-10-30,12:00 PM,Fri,Wyoming,31,Hawaii,7,24,False,False,False,True,False,,220,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+220,2020-2021,2020,9,2020-10-30,9:00 PM,Fri,Tulsa,34,East Carolina,30,4,False,False,False,True,False,,219,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+221,2020-2021,2020,9,2020-10-31,10:15 PM,Sat,(11) Brigham Young,41,Western Kentucky,10,31,False,False,False,True,False,,225,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+222,2020-2021,2020,9,2020-10-31,10:30 PM,Sat,Nevada,37,Nevada-Las Vegas,19,18,True,False,False,True,False,,240,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+223,2020-2021,2020,9,2020-10-31,12:00 PM,Sat,(7) Cincinnati,49,Memphis,10,39,False,False,False,True,False,,227,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+224,2020-2021,2020,9,2020-10-31,12:00 PM,Sat,(1) Clemson,34,Boston College,28,6,False,False,False,True,False,,228,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+225,2020-2021,2020,9,2020-10-31,12:00 PM,Sat,(20) Coastal Carolina,51,Georgia State,0,51,True,False,False,True,False,"Center Parc Credit Union Stadium - Atlanta, Georgia",229,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+226,2020-2021,2020,9,2020-10-31,12:00 PM,Sat,Florida Atlantic,24,Texas-San Antonio,3,21,False,False,False,True,False,,232,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+227,2020-2021,2020,9,2020-10-31,12:00 PM,Sat,(5) Georgia,14,Kentucky,3,11,True,False,False,True,False,"Kroger Field - Lexington, Kentucky",233,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+228,2020-2021,2020,9,2020-10-31,12:00 PM,Sat,(23) Iowa State,52,Kansas,22,30,True,False,False,True,False,,235,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+229,2020-2021,2020,9,2020-10-31,12:00 PM,Sat,Michigan State,27,(13) Michigan,24,3,True,False,False,True,False,,238,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+230,2020-2021,2020,9,2020-10-31,12:00 PM,Sat,Purdue,31,Illinois,24,7,True,False,False,True,False,,245,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+231,2020-2021,2020,9,2020-10-31,12:00 PM,Sat,San Jose State,38,New Mexico,21,17,False,False,False,True,False,,248,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+232,2020-2021,2020,9,2020-10-31,12:00 PM,Sat,Tulane,38,Temple,3,35,False,False,False,True,False,,254,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+233,2020-2021,2020,9,2020-10-31,12:00 PM,Sat,Wake Forest,38,Syracuse,14,24,True,False,False,True,False,,257,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+234,2020-2021,2020,9,2020-10-31,12:00 PM,Sat,West Virginia,37,(16) Kansas State,10,27,False,False,False,True,False,,258,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+235,2020-2021,2020,9,2020-10-31,2:00 PM,Sat,Central Florida,44,Houston,21,23,True,False,False,True,False,,226,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+236,2020-2021,2020,9,2020-10-31,3:00 PM,Sat,Rice,30,Southern Mississippi,6,24,True,False,False,True,False,,246,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+237,2020-2021,2020,9,2020-10-31,3:00 PM,Sat,Troy,38,Arkansas State,10,28,True,False,False,True,False,,253,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+238,2020-2021,2020,9,2020-10-31,3:30 PM,Sat,Auburn,48,Louisiana State,11,37,False,False,False,True,False,,223,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+239,2020-2021,2020,9,2020-10-31,3:30 PM,Sat,(17) Indiana,37,Rutgers,21,16,True,False,False,True,False,,234,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+240,2020-2021,2020,9,2020-10-31,3:30 PM,Sat,Louisiana Tech,37,Alabama-Birmingham,34,3,False,False,False,True,False,,237,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+241,2020-2021,2020,9,2020-10-31,3:30 PM,Sat,Northwestern,21,Iowa,20,1,True,False,False,True,False,,241,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+242,2020-2021,2020,9,2020-10-31,3:30 PM,Sat,(4) Notre Dame,31,Georgia Tech,13,18,True,False,False,True,False,,242,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+243,2020-2021,2020,9,2020-10-31,3:30 PM,Sat,Texas Christian,33,Baylor,23,10,True,False,False,True,False,,252,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+244,2020-2021,2020,9,2020-10-31,4:00 PM,Sat,Appalachian State,31,Louisiana-Monroe,13,18,True,False,False,True,False,,222,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+245,2020-2021,2020,9,2020-10-31,4:00 PM,Sat,Mississippi,54,Vanderbilt,21,33,True,False,False,True,False,,239,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+246,2020-2021,2020,9,2020-10-31,4:00 PM,Sat,Texas,41,(6) Oklahoma State,34,7,True,False,False,True,False,,250,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+247,2020-2021,2020,9,2020-10-31,4:00 PM,Sat,Virginia Tech,42,Louisville,35,7,True,False,False,True,False,,256,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+248,2020-2021,2020,9,2020-10-31,6:00 PM,Sat,(25) Boise State,49,Air Force,30,19,True,False,False,True,False,,224,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+249,2020-2021,2020,9,2020-10-31,7:00 PM,Sat,(2) Alabama,41,Mississippi State,0,41,False,False,False,True,False,,221,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+250,2020-2021,2020,9,2020-10-31,7:00 PM,Sat,Duke,53,Charlotte,19,34,False,False,False,True,False,,230,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+251,2020-2021,2020,9,2020-10-31,7:30 PM,Sat,(10) Florida,41,Missouri,17,24,False,False,False,True,False,,231,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+252,2020-2021,2020,9,2020-10-31,7:30 PM,Sat,(3) Ohio State,38,(18) Penn State,25,13,True,False,False,True,False,,243,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+253,2020-2021,2020,9,2020-10-31,7:30 PM,Sat,(22) Southern Methodist,51,Navy,37,14,False,False,False,True,False,,249,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+254,2020-2021,2020,9,2020-10-31,7:30 PM,Sat,(8) Texas A&M,42,Arkansas,31,11,False,False,False,True,False,,251,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+255,2020-2021,2020,9,2020-10-31,8:00 PM,Sat,Louisiana,44,Texas State,34,10,True,False,False,True,False,,236,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+256,2020-2021,2020,9,2020-10-31,8:00 PM,Sat,(24) Oklahoma,62,Texas Tech,28,34,True,False,False,True,False,,244,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+257,2020-2021,2020,9,2020-10-31,8:00 PM,Sat,Virginia,44,(15) North Carolina,41,3,False,False,False,True,False,,255,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+258,2020-2021,2020,9,2020-10-31,9:30 PM,Sat,San Diego State,38,Utah State,7,31,True,False,False,True,False,,247,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+259,2020-2021,2020,10,2020-11-04,6:00 PM,Wed,Kent State,27,Eastern Michigan,23,4,False,False,False,True,False,,261,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+260,2020-2021,2020,10,2020-11-04,6:00 PM,Wed,Western Michigan,58,Akron,13,45,True,False,False,True,False,,264,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+261,2020-2021,2020,10,2020-11-04,7:00 PM,Wed,Buffalo,49,Northern Illinois,30,19,True,False,False,True,False,,259,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+262,2020-2021,2020,10,2020-11-04,7:00 PM,Wed,Central Michigan,30,Ohio,27,3,False,False,False,True,False,,260,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+263,2020-2021,2020,10,2020-11-04,7:00 PM,Wed,Miami (OH),38,Ball State,31,7,False,False,False,True,False,,262,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+264,2020-2021,2020,10,2020-11-04,8:00 PM,Wed,Toledo,38,Bowling Green,3,35,False,False,False,True,False,,263,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+265,2020-2021,2020,10,2020-11-05,12:00 PM,Thu,Colorado State,34,Wyoming,24,10,False,False,False,True,False,,265,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+266,2020-2021,2020,10,2020-11-05,12:00 PM,Thu,Nevada,34,Utah State,9,25,False,False,False,True,False,,266,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+267,2020-2021,2020,10,2020-11-06,12:00 PM,Fri,(9) Brigham Young,51,(21) Boise State,17,34,True,False,False,True,False,,267,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+268,2020-2021,2020,10,2020-11-06,12:00 PM,Fri,San Jose State,28,San Diego State,17,11,True,False,False,True,False,,269,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+269,2020-2021,2020,10,2020-11-06,7:30 PM,Fri,(11) Miami (FL),44,North Carolina State,41,3,True,False,False,True,False,,268,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+270,2020-2021,2020,10,2020-11-07,10:30 PM,Sat,Washington State,38,Oregon State,28,10,True,False,False,True,False,,307,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+271,2020-2021,2020,10,2020-11-07,11:00 PM,Sat,Hawaii,39,New Mexico,33,6,False,False,False,True,False,,281,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+272,2020-2021,2020,10,2020-11-07,12:00 PM,Sat,Georgia State,52,Louisiana-Monroe,34,18,False,False,False,True,False,,280,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+273,2020-2021,2020,10,2020-11-07,12:00 PM,Sat,(13) Indiana,38,(23) Michigan,21,17,False,False,False,True,False,,282,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+274,2020-2021,2020,10,2020-11-07,12:00 PM,Sat,Iowa,49,Michigan State,7,42,False,False,False,True,False,,283,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+275,2020-2021,2020,10,2020-11-07,12:00 PM,Sat,(25) Liberty,38,Virginia Tech,35,3,True,False,False,True,False,,285,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+276,2020-2021,2020,10,2020-11-07,12:00 PM,Sat,Louisiana,27,Arkansas State,20,7,False,False,False,True,False,"Cajun Field - Lafayette, Louisiana",286,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+277,2020-2021,2020,10,2020-11-07,12:00 PM,Sat,Memphis,34,South Florida,33,1,False,False,False,True,False,,289,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+278,2020-2021,2020,10,2020-11-07,12:00 PM,Sat,North Carolina,56,Duke,24,32,True,False,False,True,False,,292,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+279,2020-2021,2020,10,2020-11-07,12:00 PM,Sat,Northwestern,21,Nebraska,13,8,False,False,False,True,False,,293,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+280,2020-2021,2020,10,2020-11-07,12:00 PM,Sat,(20) Southern California,28,Arizona State,27,1,False,False,False,True,False,,300,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+281,2020-2021,2020,10,2020-11-07,12:00 PM,Sat,(18) Southern Methodist,47,Temple,23,24,True,False,False,True,False,"Lincoln Financial Field - Philadelphia, Pennsylvania",301,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+282,2020-2021,2020,10,2020-11-07,12:00 PM,Sat,(22) Texas,17,West Virginia,13,4,False,False,False,True,False,,303,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+283,2020-2021,2020,10,2020-11-07,12:00 PM,Sat,Tulane,38,East Carolina,21,17,True,False,False,True,False,,306,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+284,2020-2021,2020,10,2020-11-07,1:00 PM,Sat,Georgia Southern,20,Troy,13,7,False,False,False,True,False,,279,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+285,2020-2021,2020,10,2020-11-07,2:00 PM,Sat,Boston College,16,Syracuse,13,3,True,False,False,True,False,,272,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+286,2020-2021,2020,10,2020-11-07,2:30 PM,Sat,(16) Marshall,51,Massachusetts,10,41,False,False,False,True,False,,287,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+287,2020-2021,2020,10,2020-11-07,3:00 PM,Sat,Appalachian State,38,Texas State,17,21,True,False,False,True,False,,270,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+288,2020-2021,2020,10,2020-11-07,3:00 PM,Sat,Southern Mississippi,24,North Alabama,13,11,False,False,False,True,False,,302,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+289,2020-2021,2020,10,2020-11-07,3:30 PM,Sat,(6) Cincinnati,38,Houston,10,28,False,False,False,True,False,,273,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+290,2020-2021,2020,10,2020-11-07,3:30 PM,Sat,(8) Florida,44,(5) Georgia,28,16,False,True,False,True,False,"TIAA Bank Field - Jacksonville, Florida",276,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+291,2020-2021,2020,10,2020-11-07,3:30 PM,Sat,Fresno State,40,Nevada-Las Vegas,27,13,True,False,False,True,False,,278,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+292,2020-2021,2020,10,2020-11-07,3:30 PM,Sat,Maryland,35,Penn State,19,16,True,False,False,True,False,,288,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+293,2020-2021,2020,10,2020-11-07,3:30 PM,Sat,Minnesota,41,Illinois,14,27,True,False,False,True,False,,290,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+294,2020-2021,2020,10,2020-11-07,3:30 PM,Sat,Mississippi State,24,Vanderbilt,17,7,False,False,False,True,False,,291,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+295,2020-2021,2020,10,2020-11-07,3:30 PM,Sat,(19) Oklahoma,62,Kansas,9,53,False,False,False,True,False,,296,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+296,2020-2021,2020,10,2020-11-07,3:30 PM,Sat,Texas Christian,34,Texas Tech,18,16,False,False,False,True,False,,305,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+297,2020-2021,2020,10,2020-11-07,4:00 PM,Sat,(14) Oklahoma State,20,Kansas State,18,2,True,False,False,True,False,,297,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+298,2020-2021,2020,10,2020-11-07,4:00 PM,Sat,Pittsburgh,41,Florida State,17,24,True,False,False,True,False,,299,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+299,2020-2021,2020,10,2020-11-07,6:00 PM,Sat,Florida Atlantic,10,Western Kentucky,6,4,False,False,False,True,False,,277,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+300,2020-2021,2020,10,2020-11-07,7:00 PM,Sat,Colorado,48,UCLA,42,6,False,False,False,True,False,,275,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+301,2020-2021,2020,10,2020-11-07,7:00 PM,Sat,(17) Iowa State,38,Baylor,31,7,False,False,False,True,False,,284,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+302,2020-2021,2020,10,2020-11-07,7:00 PM,Sat,(7) Texas A&M,48,South Carolina,3,45,True,False,False,True,False,,304,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+303,2020-2021,2020,10,2020-11-07,7:30 PM,Sat,Arkansas,24,Tennessee,13,11,False,False,False,True,False,,271,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+304,2020-2021,2020,10,2020-11-07,7:30 PM,Sat,(4) Notre Dame,47,(1) Clemson,40,7,False,False,False,True,False,,294,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+305,2020-2021,2020,10,2020-11-07,7:30 PM,Sat,(3) Ohio State,49,Rutgers,27,22,False,False,False,True,False,,295,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+306,2020-2021,2020,10,2020-11-07,7:30 PM,Sat,(12) Oregon,35,Stanford,14,21,False,False,False,True,False,,298,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+307,2020-2021,2020,10,2020-11-07,8:00 PM,Sat,(15) Coastal Carolina,23,South Alabama,6,17,False,False,False,True,False,,274,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+308,2020-2021,2020,11,2020-11-10,7:00 PM,Tue,Ohio,24,Akron,10,14,False,False,False,True,False,,310,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+309,2020-2021,2020,11,2020-11-10,7:30 PM,Tue,Kent State,62,Bowling Green,24,38,True,False,False,True,False,,309,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+310,2020-2021,2020,11,2020-11-10,8:00 PM,Tue,Buffalo,42,Miami (OH),10,32,False,False,False,True,False,,308,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+311,2020-2021,2020,11,2020-11-11,7:00 PM,Wed,Ball State,38,Eastern Michigan,31,7,False,False,False,True,False,,311,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+312,2020-2021,2020,11,2020-11-11,8:00 PM,Wed,Central Michigan,40,Northern Illinois,10,30,True,False,False,True,False,,312,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+313,2020-2021,2020,11,2020-11-11,8:00 PM,Wed,Western Michigan,41,Toledo,38,3,False,False,False,True,False,,313,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+314,2020-2021,2020,11,2020-11-12,12:00 PM,Thu,Boise State,52,Colorado State,21,31,False,False,False,True,False,,314,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+315,2020-2021,2020,11,2020-11-13,12:00 PM,Fri,(7) Cincinnati,55,East Carolina,17,38,False,False,False,True,False,,315,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+316,2020-2021,2020,11,2020-11-13,12:00 PM,Fri,Iowa,35,Minnesota,7,28,True,False,False,True,False,,317,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+317,2020-2021,2020,11,2020-11-13,7:00 PM,Fri,Florida Atlantic,38,Florida International,19,19,True,False,False,True,False,,316,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+318,2020-2021,2020,11,2020-11-14,10:30 PM,Sat,San Jose State,34,Nevada-Las Vegas,17,17,False,False,False,True,False,,341,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+319,2020-2021,2020,11,2020-11-14,11:00 PM,Sat,Washington,27,Oregon State,21,6,False,False,False,True,False,,348,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+320,2020-2021,2020,11,2020-11-14,12:00 PM,Sat,(10) Indiana,24,Michigan State,0,24,True,False,False,True,False,,326,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+321,2020-2021,2020,11,2020-11-14,12:00 PM,Sat,Kentucky,38,Vanderbilt,35,3,False,False,False,True,False,,327,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+322,2020-2021,2020,11,2020-11-14,12:00 PM,Sat,(22) Liberty,58,Western Carolina,14,44,False,False,False,True,False,,328,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+323,2020-2021,2020,11,2020-11-14,12:00 PM,Sat,(16) Marshall,42,Middle Tennessee State,14,28,False,False,False,True,False,,330,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+324,2020-2021,2020,11,2020-11-14,12:00 PM,Sat,(9) Miami (FL),25,Virginia Tech,24,1,True,False,False,True,False,,331,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+325,2020-2021,2020,11,2020-11-14,12:00 PM,Sat,Nebraska,30,Penn State,23,7,False,False,False,True,False,,333,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+326,2020-2021,2020,11,2020-11-14,12:00 PM,Sat,North Carolina,59,Wake Forest,53,6,False,False,False,True,False,,335,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+327,2020-2021,2020,11,2020-11-14,12:00 PM,Sat,Tulane,38,Army,12,26,False,False,False,True,False,,345,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+328,2020-2021,2020,11,2020-11-14,12:00 PM,Sat,West Virginia,24,Texas Christian,6,18,False,False,False,True,False,,349,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+329,2020-2021,2020,11,2020-11-14,1:00 PM,Sat,Illinois,23,Rutgers,20,3,True,False,False,True,False,,325,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+330,2020-2021,2020,11,2020-11-14,2:00 PM,Sat,(25) Louisiana,38,South Alabama,10,28,False,False,False,True,False,,329,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+331,2020-2021,2020,11,2020-11-14,2:30 PM,Sat,Appalachian State,17,Georgia State,13,4,False,False,False,True,False,,318,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+332,2020-2021,2020,11,2020-11-14,2:30 PM,Sat,Fresno State,35,Utah State,16,19,True,False,False,True,False,,322,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+333,2020-2021,2020,11,2020-11-14,3:00 PM,Sat,Texas-San Antonio,52,Texas-El Paso,21,31,False,False,False,True,False,,344,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+334,2020-2021,2020,11,2020-11-14,3:30 PM,Sat,Colorado,35,Stanford,32,3,True,False,False,True,False,,320,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+335,2020-2021,2020,11,2020-11-14,3:30 PM,Sat,Georgia Southern,40,Texas State,38,2,False,False,False,True,False,,323,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+336,2020-2021,2020,11,2020-11-14,3:30 PM,Sat,Houston,56,South Florida,21,35,False,False,False,True,False,,324,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+337,2020-2021,2020,11,2020-11-14,3:30 PM,Sat,(2) Notre Dame,45,Boston College,31,14,True,False,False,True,False,,338,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+338,2020-2021,2020,11,2020-11-14,3:30 PM,Sat,(20) Southern California,34,Arizona,30,4,True,False,False,True,False,,342,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+339,2020-2021,2020,11,2020-11-14,3:30 PM,Sat,Virginia,31,Louisville,17,14,False,False,False,True,False,,347,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+340,2020-2021,2020,11,2020-11-14,3:30 PM,Sat,Western Kentucky,10,Southern Mississippi,7,3,False,False,False,True,False,,350,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+341,2020-2021,2020,11,2020-11-14,4:00 PM,Sat,San Diego State,34,Hawaii,10,24,False,False,False,True,False,,340,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+342,2020-2021,2020,11,2020-11-14,4:00 PM,Sat,Texas Tech,24,Baylor,23,1,False,False,False,True,False,,343,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+343,2020-2021,2020,11,2020-11-14,6:30 PM,Sat,Nevada,27,New Mexico,20,7,False,True,False,True,False,"Sam Boyd Stadium - Las Vegas, Nevada",334,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+344,2020-2021,2020,11,2020-11-14,7:00 PM,Sat,(6) Florida,63,Arkansas,35,28,False,False,False,True,False,,321,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+345,2020-2021,2020,11,2020-11-14,7:00 PM,Sat,(11) Oregon,43,Washington State,29,14,True,False,False,True,False,,339,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+346,2020-2021,2020,11,2020-11-14,7:00 PM,Sat,Tulsa,28,(19) Southern Methodist,24,4,False,False,False,True,False,,346,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+347,2020-2021,2020,11,2020-11-14,7:30 PM,Sat,Central Florida,38,Temple,13,25,False,False,False,True,False,,319,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+348,2020-2021,2020,11,2020-11-14,7:30 PM,Sat,Mississippi,59,South Carolina,42,17,False,False,False,True,False,,332,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+349,2020-2021,2020,11,2020-11-14,7:30 PM,Sat,North Carolina State,38,Florida State,22,16,False,False,False,True,False,,336,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+350,2020-2021,2020,11,2020-11-14,7:30 PM,Sat,(23) Northwestern,27,Purdue,20,7,True,False,False,True,False,,337,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+351,2020-2021,2020,11,2020-11-14,7:30 PM,Sat,(13) Wisconsin,49,Michigan,11,38,True,False,False,True,False,,351,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+352,2020-2021,2020,11,2020-11-15,12:00 PM,Sun,UCLA,34,California,10,24,False,False,False,True,False,,352,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+353,2020-2021,2020,12,2020-11-17,7:00 PM,Tue,Buffalo,42,Bowling Green,17,25,True,False,False,True,False,,353,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+354,2020-2021,2020,12,2020-11-17,8:00 PM,Tue,Kent State,69,Akron,35,34,False,False,False,True,False,,354,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+355,2020-2021,2020,12,2020-11-18,7:00 PM,Wed,Ball State,31,Northern Illinois,25,6,False,False,False,True,False,,355,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+356,2020-2021,2020,12,2020-11-18,7:00 PM,Wed,Toledo,45,Eastern Michigan,28,17,True,False,False,True,False,,356,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+357,2020-2021,2020,12,2020-11-18,7:00 PM,Wed,Western Michigan,52,Central Michigan,44,8,True,False,False,True,False,,357,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+358,2020-2021,2020,12,2020-11-19,12:00 PM,Thu,(25) Tulsa,30,Tulane,24,6,False,False,False,True,False,,358,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+359,2020-2021,2020,12,2020-11-20,12:00 PM,Fri,Air Force,28,New Mexico,0,28,False,False,False,True,False,,359,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+360,2020-2021,2020,12,2020-11-20,12:00 PM,Fri,Minnesota,34,Purdue,31,3,False,False,False,True,False,,362,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+361,2020-2021,2020,12,2020-11-20,7:00 PM,Fri,Louisville,30,Syracuse,0,30,False,False,False,True,False,,361,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+362,2020-2021,2020,12,2020-11-20,8:00 PM,Fri,Florida Atlantic,24,Massachusetts,2,22,False,False,False,True,False,,360,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+363,2020-2021,2020,12,2020-11-21,10:30 PM,Sat,(20) Southern California,33,Utah,17,16,True,False,False,True,False,,391,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+364,2020-2021,2020,12,2020-11-21,11:00 PM,Sat,Boise State,40,Hawaii,32,8,True,False,False,True,False,,366,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+365,2020-2021,2020,12,2020-11-21,12:00 PM,Sat,Army,28,Georgia Southern,27,1,False,False,False,True,False,,364,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+366,2020-2021,2020,12,2020-11-21,12:00 PM,Sat,(15) Coastal Carolina,34,Appalachian State,23,11,False,False,False,True,False,,369,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+367,2020-2021,2020,12,2020-11-21,12:00 PM,Sat,East Carolina,28,Temple,3,25,True,False,False,True,False,,370,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+368,2020-2021,2020,12,2020-11-21,12:00 PM,Sat,(6) Florida,38,Vanderbilt,17,21,True,False,False,True,False,,371,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+369,2020-2021,2020,12,2020-11-21,12:00 PM,Sat,Illinois,41,Nebraska,23,18,True,False,False,True,False,,374,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+370,2020-2021,2020,12,2020-11-21,12:00 PM,Sat,Louisiana State,27,Arkansas,24,3,True,False,False,True,False,,377,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+371,2020-2021,2020,12,2020-11-21,12:00 PM,Sat,Memphis,56,Stephen F. Austin,14,42,False,False,False,True,False,,378,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+372,2020-2021,2020,12,2020-11-21,12:00 PM,Sat,(3) Ohio State,42,(9) Indiana,35,7,False,False,False,True,False,,386,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+373,2020-2021,2020,12,2020-11-21,12:00 PM,Sat,Texas State,47,Arkansas State,45,2,False,False,False,True,False,,392,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+374,2020-2021,2020,12,2020-11-21,2:00 PM,Sat,North Texas,27,Rice,17,10,False,False,False,True,False,,384,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+375,2020-2021,2020,12,2020-11-21,2:00 PM,Sat,Western Kentucky,38,Florida International,21,17,False,False,False,True,False,,396,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+376,2020-2021,2020,12,2020-11-21,3:00 PM,Sat,(8) Brigham Young,66,North Alabama,14,52,False,False,False,True,False,,367,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+377,2020-2021,2020,12,2020-11-21,3:00 PM,Sat,Texas-San Antonio,23,Southern Mississippi,20,3,True,False,False,True,False,,393,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+378,2020-2021,2020,12,2020-11-21,3:30 PM,Sat,(7) Cincinnati,36,Central Florida,33,3,True,False,False,True,False,,368,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+379,2020-2021,2020,12,2020-11-21,3:30 PM,Sat,Iowa,41,Penn State,21,20,True,False,False,True,False,,375,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+380,2020-2021,2020,12,2020-11-21,3:30 PM,Sat,Middle Tennessee State,20,Troy,17,3,True,False,False,True,False,,380,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+381,2020-2021,2020,12,2020-11-21,3:30 PM,Sat,Nevada,26,San Diego State,21,5,False,False,False,True,False,,382,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+382,2020-2021,2020,12,2020-11-21,3:30 PM,Sat,(19) Northwestern,17,(10) Wisconsin,7,10,False,False,False,True,False,,385,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+383,2020-2021,2020,12,2020-11-21,3:30 PM,Sat,(11) Oregon,38,UCLA,35,3,False,False,False,True,False,"Autzen Stadium - Eugene, Oregon",388,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+384,2020-2021,2020,12,2020-11-21,3:30 PM,Sat,Oregon State,31,California,27,4,False,False,False,True,False,,389,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+385,2020-2021,2020,12,2020-11-21,4:00 PM,Sat,(1) Alabama,63,Kentucky,3,60,False,False,False,True,False,,363,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+386,2020-2021,2020,12,2020-11-21,4:00 PM,Sat,Georgia State,31,South Alabama,14,17,True,False,False,True,False,,373,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+387,2020-2021,2020,12,2020-11-21,4:00 PM,Sat,(17) Iowa State,45,Kansas State,0,45,False,False,False,True,False,,376,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+388,2020-2021,2020,12,2020-11-21,4:00 PM,Sat,Pittsburgh,47,Virginia Tech,14,33,False,False,False,True,False,,390,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+389,2020-2021,2020,12,2020-11-21,4:00 PM,Sat,Virginia,55,Abilene Christian,15,40,False,False,False,True,False,,394,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+390,2020-2021,2020,12,2020-11-21,7:00 PM,Sat,(23) Auburn,30,Tennessee,17,13,False,False,False,True,False,,365,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+391,2020-2021,2020,12,2020-11-21,7:30 PM,Sat,(13) Georgia,31,Mississippi State,24,7,False,False,False,True,False,,372,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+392,2020-2021,2020,12,2020-11-21,7:30 PM,Sat,Michigan,48,Rutgers,42,6,True,False,False,True,False,,379,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+393,2020-2021,2020,12,2020-11-21,7:30 PM,Sat,Missouri,17,South Carolina,10,7,True,False,False,True,False,,381,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+394,2020-2021,2020,12,2020-11-21,7:30 PM,Sat,North Carolina State,15,(21) Liberty,14,1,False,False,False,True,False,,383,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+395,2020-2021,2020,12,2020-11-21,7:30 PM,Sat,(18) Oklahoma,41,(14) Oklahoma State,13,28,False,False,False,True,False,,387,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+396,2020-2021,2020,12,2020-11-21,8:00 PM,Sat,Washington,44,Arizona,27,17,False,False,False,True,False,,395,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+397,2020-2021,2020,13,2020-11-26,12:00 PM,Thu,Utah State,41,New Mexico,27,14,False,False,False,True,False,,397,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+398,2020-2021,2020,13,2020-11-27,12:00 PM,Fri,Central Michigan,31,Eastern Michigan,23,8,True,False,False,True,False,,399,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+399,2020-2021,2020,13,2020-11-27,12:00 PM,Fri,(15) Iowa State,23,(20) Texas,20,3,True,False,False,True,False,,401,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+400,2020-2021,2020,13,2020-11-27,12:00 PM,Fri,Liberty,45,Massachusetts,0,45,False,False,False,True,False,,402,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+401,2020-2021,2020,13,2020-11-27,12:00 PM,Fri,Wyoming,45,Nevada-Las Vegas,14,31,True,False,False,True,False,,406,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+402,2020-2021,2020,13,2020-11-27,1:00 PM,Fri,Iowa,26,Nebraska,20,6,False,False,False,True,False,,400,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+403,2020-2021,2020,13,2020-11-27,3:30 PM,Fri,Central Florida,58,South Florida,46,12,True,False,False,True,False,,398,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+404,2020-2021,2020,13,2020-11-27,3:30 PM,Fri,(2) Notre Dame,31,(25) North Carolina,17,14,True,False,False,True,False,,403,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+405,2020-2021,2020,13,2020-11-27,4:00 PM,Fri,Stanford,24,California,23,1,True,False,False,True,False,,405,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+406,2020-2021,2020,13,2020-11-27,7:30 PM,Fri,Oregon State,41,(9) Oregon,38,3,False,False,False,True,False,,404,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+407,2020-2021,2020,13,2020-11-28,11:00 PM,Sat,Hawaii,24,Nevada,21,3,False,False,False,True,False,,421,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+408,2020-2021,2020,13,2020-11-28,12:00 PM,Sat,Ball State,27,Toledo,24,3,True,False,False,True,False,,409,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+409,2020-2021,2020,13,2020-11-28,12:00 PM,Sat,Buffalo,70,Kent State,41,29,False,False,False,True,False,,412,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+410,2020-2021,2020,13,2020-11-28,12:00 PM,Sat,East Carolina,52,Southern Methodist,38,14,False,False,False,True,False,,416,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+411,2020-2021,2020,13,2020-11-28,12:00 PM,Sat,(6) Florida,34,Kentucky,10,24,False,False,False,True,False,,417,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+412,2020-2021,2020,13,2020-11-28,12:00 PM,Sat,Georgia State,30,Georgia Southern,24,6,False,False,False,True,False,,419,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+413,2020-2021,2020,13,2020-11-28,12:00 PM,Sat,(12) Indiana,27,Maryland,11,16,False,False,False,True,False,,422,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+414,2020-2021,2020,13,2020-11-28,12:00 PM,Sat,Missouri,41,Vanderbilt,0,41,False,False,False,True,False,,428,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+415,2020-2021,2020,13,2020-11-28,12:00 PM,Sat,North Carolina State,36,Syracuse,29,7,True,False,False,True,False,,429,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+416,2020-2021,2020,13,2020-11-28,12:00 PM,Sat,Ohio,52,Bowling Green,10,42,False,False,False,True,False,,430,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+417,2020-2021,2020,13,2020-11-28,12:00 PM,Sat,(21) Oklahoma State,50,Texas Tech,44,6,False,False,False,True,False,,431,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+418,2020-2021,2020,13,2020-11-28,12:00 PM,Sat,Penn State,27,Michigan,17,10,True,False,False,True,False,,432,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+419,2020-2021,2020,13,2020-11-28,12:00 PM,Sat,Western Michigan,30,Northern Illinois,27,3,False,False,False,True,False,,440,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+420,2020-2021,2020,13,2020-11-28,1:00 PM,Sat,Miami (OH),38,Akron,7,31,True,False,False,True,False,,425,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+421,2020-2021,2020,13,2020-11-28,3:00 PM,Sat,(16) Coastal Carolina,49,Texas State,14,35,True,False,False,True,False,,414,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+422,2020-2021,2020,13,2020-11-28,3:00 PM,Sat,(23) Louisiana,70,Louisiana-Monroe,20,50,True,False,False,True,False,,423,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+423,2020-2021,2020,13,2020-11-28,3:00 PM,Sat,South Alabama,38,Arkansas State,31,7,True,False,False,True,False,,434,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+424,2020-2021,2020,13,2020-11-28,3:00 PM,Sat,Texas-San Antonio,49,North Texas,17,32,False,False,False,True,False,,437,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+425,2020-2021,2020,13,2020-11-28,3:30 PM,Sat,(1) Alabama,42,(22) Auburn,13,29,False,False,False,True,False,,407,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+426,2020-2021,2020,13,2020-11-28,3:30 PM,Sat,(4) Clemson,52,Pittsburgh,17,35,False,False,False,True,False,,413,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+427,2020-2021,2020,13,2020-11-28,3:30 PM,Sat,Michigan State,29,(11) Northwestern,20,9,False,False,False,True,False,,426,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+428,2020-2021,2020,13,2020-11-28,4:00 PM,Sat,Boston College,34,Louisville,27,7,False,False,False,True,False,"Alumni Stadium - Chestnut Hill, Massachusetts",411,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+429,2020-2021,2020,13,2020-11-28,4:00 PM,Sat,Mississippi,31,Mississippi State,24,7,False,False,False,True,False,,427,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+430,2020-2021,2020,13,2020-11-28,4:00 PM,Sat,Rutgers,37,Purdue,30,7,True,False,False,True,False,,433,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+431,2020-2021,2020,13,2020-11-28,5:00 PM,Sat,Colorado,20,San Diego State,10,10,False,False,False,True,False,"Folsom Field - Boulder, Colorado",415,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+432,2020-2021,2020,13,2020-11-28,7:00 PM,Sat,Baylor,32,Kansas State,31,1,False,False,False,True,False,,410,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+433,2020-2021,2020,13,2020-11-28,7:00 PM,Sat,Georgia Tech,56,Duke,33,23,False,False,False,True,False,,420,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+434,2020-2021,2020,13,2020-11-28,7:00 PM,Sat,Memphis,10,Navy,7,3,True,False,False,True,False,,424,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+435,2020-2021,2020,13,2020-11-28,7:00 PM,Sat,(5) Texas A&M,20,Louisiana State,7,13,False,False,False,True,False,,435,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+436,2020-2021,2020,13,2020-11-28,7:30 PM,Sat,(13) Georgia,45,South Carolina,16,29,True,False,False,True,False,,418,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+437,2020-2021,2020,13,2020-11-28,7:30 PM,Sat,Washington,24,Utah,21,3,False,False,False,True,False,,439,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+438,2020-2021,2020,13,2020-11-28,8:00 PM,Sat,Appalachian State,47,Troy,10,37,False,False,False,True,False,,408,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+439,2020-2021,2020,13,2020-11-28,8:00 PM,Sat,Texas Christian,59,Kansas,23,36,True,False,False,True,False,,436,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+440,2020-2021,2020,13,2020-11-28,8:00 PM,Sat,UCLA,27,Arizona,10,17,False,False,False,True,False,,438,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+441,2020-2021,2020,14,2020-12-03,12:00 PM,Thu,Air Force,35,Utah State,7,28,True,False,False,True,False,,441,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+442,2020-2021,2020,14,2020-12-03,6:00 PM,Thu,Louisiana Tech,42,North Texas,31,11,True,False,False,True,False,,442,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+443,2020-2021,2020,14,2020-12-04,8:30 PM,Fri,(20) Louisiana,24,Appalachian State,21,3,True,False,False,True,False,,443,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+444,2020-2021,2020,14,2020-12-05,10:30 PM,Sat,Nevada,37,Fresno State,26,11,False,False,False,True,False,,462,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+445,2020-2021,2020,14,2020-12-05,10:30 PM,Sat,New Mexico,17,Wyoming,16,1,False,False,False,True,False,,463,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+446,2020-2021,2020,14,2020-12-05,10:30 PM,Sat,UCLA,25,Arizona State,18,7,True,False,False,True,False,,482,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+447,2020-2021,2020,14,2020-12-05,10:30 PM,Sat,Utah,30,Oregon State,24,6,False,False,False,True,False,,483,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+448,2020-2021,2020,14,2020-12-05,12:00 PM,Sat,Missouri,50,Arkansas,48,2,False,False,False,True,False,"Faurot Field at Memorial Stadium - Columbia, Missouri",460,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+449,2020-2021,2020,14,2020-12-05,12:00 PM,Sat,Nebraska,37,Purdue,27,10,True,False,False,True,False,,461,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+450,2020-2021,2020,14,2020-12-05,12:00 PM,Sat,(3) Ohio State,52,Michigan State,12,40,True,False,False,True,False,,467,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+451,2020-2021,2020,14,2020-12-05,12:00 PM,Sat,Penn State,23,Rutgers,7,16,True,False,False,True,False,,469,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+452,2020-2021,2020,14,2020-12-05,12:00 PM,Sat,Rice,20,(15) Marshall,0,20,True,False,False,True,False,,470,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+453,2020-2021,2020,14,2020-12-05,12:00 PM,Sat,Texas,69,Kansas State,31,38,True,False,False,True,False,,474,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+454,2020-2021,2020,14,2020-12-05,12:00 PM,Sat,(5) Texas A&M,31,Auburn,20,11,True,False,False,True,False,,475,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+455,2020-2021,2020,14,2020-12-05,12:00 PM,Sat,Texas Christian,29,(19) Oklahoma State,22,7,False,False,False,True,False,,476,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+456,2020-2021,2020,14,2020-12-05,12:00 PM,Sat,Texas Tech,16,Kansas,13,3,False,False,False,True,False,,477,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+457,2020-2021,2020,14,2020-12-05,12:00 PM,Sat,Toledo,41,Northern Illinois,24,17,True,False,False,True,False,,478,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+458,2020-2021,2020,14,2020-12-05,12:00 PM,Sat,Tulane,35,Memphis,21,14,False,False,False,True,False,,480,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+459,2020-2021,2020,14,2020-12-05,2:00 PM,Sat,Akron,31,Bowling Green,3,28,False,False,False,True,False,,444,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+460,2020-2021,2020,14,2020-12-05,2:00 PM,Sat,Ball State,45,Central Michigan,20,25,True,False,False,True,False,,447,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+461,2020-2021,2020,14,2020-12-05,2:00 PM,Sat,Eastern Michigan,53,Western Michigan,42,11,True,False,False,True,False,,452,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+462,2020-2021,2020,14,2020-12-05,2:00 PM,Sat,Troy,29,South Alabama,0,29,True,False,False,True,False,,479,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+463,2020-2021,2020,14,2020-12-05,2:30 PM,Sat,(2) Notre Dame,45,Syracuse,21,24,False,False,False,True,False,,466,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+464,2020-2021,2020,14,2020-12-05,3:00 PM,Sat,Arkansas State,48,Louisiana-Monroe,15,33,False,False,False,True,False,,446,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+465,2020-2021,2020,14,2020-12-05,3:30 PM,Sat,(6) Florida,31,Tennessee,19,12,True,False,False,True,False,,453,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+466,2020-2021,2020,14,2020-12-05,3:30 PM,Sat,(10) Indiana,14,(18) Wisconsin,6,8,True,False,False,True,False,,455,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+467,2020-2021,2020,14,2020-12-05,3:30 PM,Sat,(24) Iowa,35,Illinois,21,14,True,False,False,True,False,,456,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+468,2020-2021,2020,14,2020-12-05,3:30 PM,Sat,(12) Iowa State,42,West Virginia,6,36,False,False,False,True,False,,457,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+469,2020-2021,2020,14,2020-12-05,3:30 PM,Sat,(22) Tulsa,19,Navy,6,13,True,False,False,True,False,,481,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+470,2020-2021,2020,14,2020-12-05,3:30 PM,Sat,Virginia,43,Boston College,32,11,False,False,False,True,False,,484,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+471,2020-2021,2020,14,2020-12-05,4:00 PM,Sat,North Carolina State,23,Georgia Tech,13,10,False,False,False,True,False,,465,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+472,2020-2021,2020,14,2020-12-05,4:00 PM,Sat,San Jose State,35,Hawaii,24,11,True,False,False,True,False,,472,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+473,2020-2021,2020,14,2020-12-05,4:00 PM,Sat,Stanford,31,(23) Washington,26,5,True,False,False,True,False,,473,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+474,2020-2021,2020,14,2020-12-05,5:30 PM,Sat,(14) Coastal Carolina,22,(8) Brigham Young,17,5,False,False,False,True,False,,450,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+475,2020-2021,2020,14,2020-12-05,6:00 PM,Sat,Georgia Southern,20,Florida Atlantic,3,17,False,False,False,True,False,,454,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+476,2020-2021,2020,14,2020-12-05,7:00 PM,Sat,California,21,(21) Oregon,17,4,False,False,False,True,False,,448,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+477,2020-2021,2020,14,2020-12-05,7:00 PM,Sat,Colorado,24,Arizona,13,11,True,False,False,True,False,,451,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+478,2020-2021,2020,14,2020-12-05,7:00 PM,Sat,North Carolina,49,Western Carolina,9,40,False,False,False,True,False,,464,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+479,2020-2021,2020,14,2020-12-05,7:00 PM,Sat,San Diego State,29,Colorado State,17,12,False,False,False,True,False,,471,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+480,2020-2021,2020,14,2020-12-05,7:30 PM,Sat,(4) Clemson,45,Virginia Tech,10,35,True,False,False,True,False,,449,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+481,2020-2021,2020,14,2020-12-05,7:30 PM,Sat,Kentucky,41,South Carolina,18,23,False,False,False,True,False,,458,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+482,2020-2021,2020,14,2020-12-05,8:00 PM,Sat,(1) Alabama,55,Louisiana State,17,38,True,False,False,True,False,,445,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+483,2020-2021,2020,14,2020-12-05,8:00 PM,Sat,(9) Miami (FL),48,Duke,0,48,True,False,False,True,False,,459,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+484,2020-2021,2020,14,2020-12-05,8:00 PM,Sat,(13) Oklahoma,27,Baylor,14,13,False,False,False,True,False,,468,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+485,2020-2021,2020,14,2020-12-06,12:00 PM,Sun,Western Kentucky,37,Charlotte,19,18,True,False,False,True,False,,486,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+486,2020-2021,2020,14,2020-12-06,7:30 PM,Sun,(17) Southern California,38,Washington State,13,25,False,False,False,True,False,"United Airlines Field at Los Angeles Memorial Coliseum - Los Angeles, California",485,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+487,2020-2021,2020,15,2020-12-10,6:30 PM,Thu,Southern Mississippi,45,Florida Atlantic,31,14,False,False,False,True,False,,488,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+488,2020-2021,2020,15,2020-12-10,7:00 PM,Thu,Pittsburgh,34,Georgia Tech,20,14,True,False,False,True,False,,487,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+489,2020-2021,2020,15,2020-12-11,12:00 PM,Fri,San Jose State,30,Nevada,20,10,False,True,False,True,False,"Sam Boyd Stadium - Las Vegas, Nevada",491,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+490,2020-2021,2020,15,2020-12-11,4:00 PM,Fri,North Texas,45,Texas-El Paso,43,2,True,False,False,True,False,,490,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+491,2020-2021,2020,15,2020-12-11,7:00 PM,Fri,Arizona State,70,Arizona,7,63,True,False,False,True,False,,489,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+492,2020-2021,2020,15,2020-12-12,10:00 PM,Sat,(14) Brigham Young,28,San Diego State,14,14,False,False,False,True,False,,499,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+493,2020-2021,2020,15,2020-12-12,10:00 PM,Sat,Stanford,27,Oregon State,24,3,True,False,False,True,False,,518,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+494,2020-2021,2020,15,2020-12-12,10:30 PM,Sat,New Mexico,49,Fresno State,39,10,False,True,False,True,False,"Sam Boyd Stadium - Las Vegas, Nevada",511,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+495,2020-2021,2020,15,2020-12-12,11:00 PM,Sat,Hawaii,38,Nevada-Las Vegas,21,17,False,False,False,True,False,,505,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+496,2020-2021,2020,15,2020-12-12,12:00 PM,Sat,(1) Alabama,52,Arkansas,3,49,True,False,False,True,False,,492,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+497,2020-2021,2020,15,2020-12-12,12:00 PM,Sat,Ball State,30,Western Michigan,27,3,False,False,False,True,False,,497,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+498,2020-2021,2020,15,2020-12-12,12:00 PM,Sat,Eastern Michigan,41,Northern Illinois,33,8,False,False,False,True,False,,502,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+499,2020-2021,2020,15,2020-12-12,12:00 PM,Sat,(12) Georgia,49,Missouri,14,35,True,False,False,True,False,,504,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+500,2020-2021,2020,15,2020-12-12,12:00 PM,Sat,Louisville,45,Wake Forest,21,24,False,False,False,True,False,,508,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+501,2020-2021,2020,15,2020-12-12,12:00 PM,Sat,Minnesota,24,Nebraska,17,7,True,False,False,True,False,,510,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+502,2020-2021,2020,15,2020-12-12,12:00 PM,Sat,(15) Northwestern,28,Illinois,10,18,False,False,False,True,False,,513,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+503,2020-2021,2020,15,2020-12-12,12:00 PM,Sat,Penn State,39,Michigan State,24,15,False,False,False,True,False,,515,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+504,2020-2021,2020,15,2020-12-12,12:00 PM,Sat,Rutgers,27,Maryland,24,3,True,False,False,True,False,,516,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+505,2020-2021,2020,15,2020-12-12,12:00 PM,Sat,Utah,38,(21) Colorado,21,17,True,False,False,True,False,"Folsom Field - Boulder, Colorado",522,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+506,2020-2021,2020,15,2020-12-12,1:00 PM,Sat,Alabama-Birmingham,21,Rice,16,5,True,False,False,True,False,,493,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+507,2020-2021,2020,15,2020-12-12,2:30 PM,Sat,(24) Buffalo,56,Akron,7,49,False,False,False,True,False,,500,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+508,2020-2021,2020,15,2020-12-12,3:00 PM,Sat,Army,15,Navy,0,15,False,False,False,True,False,,495,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+509,2020-2021,2020,15,2020-12-12,3:00 PM,Sat,(11) Coastal Carolina,42,Troy,38,4,True,False,False,True,False,"Veterans Memorial Stadium - Troy, Alabama",501,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+510,2020-2021,2020,15,2020-12-12,3:00 PM,Sat,Toledo,24,Central Michigan,23,1,False,False,False,True,False,,521,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+511,2020-2021,2020,15,2020-12-12,3:30 PM,Sat,(19) Iowa,28,(25) Wisconsin,7,21,False,False,False,True,False,,506,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+512,2020-2021,2020,15,2020-12-12,3:30 PM,Sat,Memphis,30,Houston,27,3,False,False,False,True,False,,509,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+513,2020-2021,2020,15,2020-12-12,3:30 PM,Sat,(20) North Carolina,62,(9) Miami (FL),26,36,True,False,False,True,False,,512,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+514,2020-2021,2020,15,2020-12-12,4:00 PM,Sat,Florida State,56,Duke,35,21,False,False,False,True,False,,503,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+515,2020-2021,2020,15,2020-12-12,4:00 PM,Sat,Tennessee,42,Vanderbilt,17,25,True,False,False,True,False,,519,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+516,2020-2021,2020,15,2020-12-12,6:00 PM,Sat,Appalachian State,34,Georgia Southern,26,8,True,False,False,True,False,,494,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+517,2020-2021,2020,15,2020-12-12,6:00 PM,Sat,Boise State,17,Wyoming,9,8,True,False,False,True,False,,498,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+518,2020-2021,2020,15,2020-12-12,7:00 PM,Sat,Louisiana State,37,(6) Florida,34,3,True,False,False,True,False,,507,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+519,2020-2021,2020,15,2020-12-12,7:00 PM,Sat,Oklahoma State,42,Baylor,3,39,True,False,False,True,False,,514,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+520,2020-2021,2020,15,2020-12-12,7:00 PM,Sat,Texas Christian,52,Louisiana Tech,10,42,False,False,False,True,False,,520,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+521,2020-2021,2020,15,2020-12-12,7:30 PM,Sat,Auburn,24,Mississippi State,10,14,True,False,False,True,False,,496,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+522,2020-2021,2020,15,2020-12-12,7:30 PM,Sat,(16) Southern California,43,UCLA,38,5,True,False,False,True,False,,517,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+523,2020-2021,2020,15,2020-12-12,8:00 PM,Sat,Virginia Tech,33,Virginia,15,18,False,False,False,True,False,,523,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+524,2020-2021,2020,16,2020-12-18,7:00 PM,Fri,Alabama-Birmingham,22,Marshall,13,9,True,False,False,True,False,"Conference USA Championship (Huntington, WV)",524,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+525,2020-2021,2020,16,2020-12-18,7:30 PM,Fri,Ball State,38,(23) Buffalo,28,10,False,True,False,True,False,"MAC Championship (Detroit, MI)",525,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+526,2020-2021,2020,16,2020-12-18,7:30 PM,Fri,Nebraska,28,Rutgers,21,7,True,False,False,True,False,,526,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+527,2020-2021,2020,16,2020-12-18,8:00 PM,Fri,Oregon,31,(13) Southern California,24,7,True,False,False,True,False,"Pac-12 Championship (Los Angeles, CA)",527,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+528,2020-2021,2020,16,2020-12-19,10:30 PM,Sat,Arizona State,46,Oregon State,33,13,True,False,False,True,False,,529,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+529,2020-2021,2020,16,2020-12-19,12:00 PM,Sat,(3) Ohio State,22,(15) Northwestern,10,12,False,True,False,True,False,"Big Ten Championship (Indianapolis, IN)",535,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+530,2020-2021,2020,16,2020-12-19,12:00 PM,Sat,(12) Oklahoma,27,(8) Iowa State,21,6,False,True,False,True,False,"Big 12 Championship (Arlington, TX)",536,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+531,2020-2021,2020,16,2020-12-19,12:00 PM,Sat,(5) Texas A&M,34,Tennessee,13,21,True,False,False,True,False,,540,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+532,2020-2021,2020,16,2020-12-19,1:30 PM,Sat,Utah,45,Washington State,28,17,False,False,False,True,False,,541,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+533,2020-2021,2020,16,2020-12-19,3:00 PM,Sat,Army,10,Air Force,7,3,False,False,False,True,False,,530,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+534,2020-2021,2020,16,2020-12-19,3:30 PM,Sat,Louisiana State,53,Mississippi,48,5,False,False,False,True,False,,533,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+535,2020-2021,2020,16,2020-12-19,3:30 PM,Sat,Mississippi State,51,Missouri,32,19,False,False,False,True,False,,534,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+536,2020-2021,2020,16,2020-12-19,4:00 PM,Sat,(4) Clemson,34,(2) Notre Dame,10,24,False,True,False,True,False,"ACC Championship (Charlotte, NC)",532,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+537,2020-2021,2020,16,2020-12-19,4:00 PM,Sat,Wisconsin,20,Minnesota,17,3,False,False,False,True,False,,542,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+538,2020-2021,2020,16,2020-12-19,4:15 PM,Sat,(25) San Jose State,34,Boise State,20,14,False,True,False,True,False,"MWC Championship (Whitney, NV)",538,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+539,2020-2021,2020,16,2020-12-19,5:30 PM,Sat,Penn State,56,Illinois,21,35,False,False,False,True,False,,537,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+540,2020-2021,2020,16,2020-12-19,7:00 PM,Sat,Stanford,48,UCLA,47,1,True,False,False,True,False,,539,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+541,2020-2021,2020,16,2020-12-19,8:00 PM,Sat,(1) Alabama,52,(11) Florida,46,6,False,True,False,True,False,"SEC Championship (Atlanta, GA)",528,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+542,2020-2021,2020,16,2020-12-19,8:00 PM,Sat,(6) Cincinnati,27,(20) Tulsa,24,3,False,False,False,True,False,"American Athletic Conference Championship (Cincinnati, OH)",531,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+543,2020-2021,2020,16,2020-12-21,2:30 PM,Mon,Appalachian State,56,North Texas,28,28,False,True,False,True,False,"Myrtle Beach Bowl (Brooks Stadium - Conway, South Carolina)",543,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+544,2020-2021,2020,17,2020-12-22,3:30 PM,Tue,Nevada,38,Tulane,27,11,False,True,False,True,False,"Famous Idaho Potato Bowl (Albertsons Stadium - Boise, Idaho)",545,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+545,2020-2021,2020,17,2020-12-22,7:00 PM,Tue,(13) Brigham Young,49,Central Florida,23,26,False,True,False,True,False,"Boca Raton Bowl (FAU Stadium - Boca Raton, Florida)",544,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+546,2020-2021,2020,17,2020-12-23,3:00 PM,Wed,Georgia Southern,38,Louisiana Tech,3,35,False,True,False,True,False,"New Orleans Bowl (Mercedes-Benz Superdome - New Orleans, Louisiana)",546,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+547,2020-2021,2020,17,2020-12-23,7:00 PM,Wed,Memphis,25,Florida Atlantic,10,15,False,True,False,True,False,"Montgomery Bowl (Cramton Bowl - Montgomery, Alabama)",547,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+548,2020-2021,2020,17,2020-12-24,3:30 PM,Thu,Hawaii,28,Houston,14,14,False,True,False,True,False,"New Mexico Bowl (Toyota Stadium - Frisco, Texas)",548,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+549,2020-2021,2020,17,2020-12-25,2:30 PM,Fri,Buffalo,17,Marshall,10,7,False,True,False,True,False,"Camellia Bowl (Cramton Bowl - Montgomery, Alabama)",549,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+550,2020-2021,2020,17,2020-12-26,3:30 PM,Sat,Georgia State,39,Western Kentucky,21,18,False,True,False,True,False,"LendingTree Bowl (Ladd-Peebles Stadium - Mobile, Alabama)",550,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+551,2020-2021,2020,17,2020-12-26,3:30 PM,Sat,(16) Louisiana,31,Texas-San Antonio,24,7,False,True,False,True,False,"First Responder Bowl (Gerald J. Ford Stadium - Dallas, Texas)",552,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+552,2020-2021,2020,17,2020-12-26,7:30 PM,Sat,(23) Liberty,37,(9) Coastal Carolina,34,3,False,True,False,True,False,"Cure Bowl (Camping World Stadium - Orlando, Florida)",551,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+553,2020-2021,2020,18,2020-12-29,5:30 PM,Tue,Oklahoma State,37,(18) Miami (FL),34,3,False,True,False,True,False,"Cheez-It Bowl (Camping World Stadium - Orlando, Florida)",553,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+554,2020-2021,2020,18,2020-12-29,9:00 PM,Tue,(20) Texas,55,Colorado,23,32,False,True,False,True,False,"Alamo Bowl (Alamodome - San Antonio, Texas)",554,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+555,2020-2021,2020,18,2020-12-30,12:00 PM,Wed,Wisconsin,42,Wake Forest,28,14,False,True,False,True,False,"Duke's Mayo Bowl (Bank of America Stadium - Charlotte, North Carolina)",556,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+556,2020-2021,2020,18,2020-12-30,8:00 PM,Wed,(8) Oklahoma,55,(10) Florida,20,35,False,True,False,True,False,"Cotton Bowl (AT&T Stadium - Arlington, Texas)",555,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+557,2020-2021,2020,18,2020-12-31,12:00 PM,Thu,Mississippi State,28,(22) Tulsa,26,2,False,True,False,True,False,"Armed Forces Bowl (Amon G. Carter Stadium - Fort Worth, Texas)",558,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+558,2020-2021,2020,18,2020-12-31,2:00 PM,Thu,Ball State,34,(19) San Jose State,13,21,False,True,False,True,False,"Arizona Bowl (Arizona Stadium - Tucson, Arizona)",557,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+559,2020-2021,2020,18,2020-12-31,4:00 PM,Thu,West Virginia,24,Army,21,3,False,True,False,True,False,"Liberty Bowl (Liberty Bowl Memorial Stadium - Memphis, Tennessee)",559,2020,https://www.sports-reference.com/cfb/years/2020-schedule.html
+560,2020-2021,2020,18,2021-01-01,12:00 PM,Fri,(11) Georgia,24,(6) Cincinnati,21,3,False,True,True,True,False,"Peach Bowl (Mercedes-Benz Stadium - Atlanta, Georgia)",561,2021,https://www.sports-reference.com/cfb/years/2020-schedule.html
+561,2020-2021,2020,18,2021-01-01,1:00 PM,Fri,(15) Northwestern,35,Auburn,19,16,False,True,True,True,False,"Citrus Bowl (Camping World Stadium - Orlando, Florida)",562,2021,https://www.sports-reference.com/cfb/years/2020-schedule.html
+562,2020-2021,2020,18,2021-01-01,4:00 PM,Fri,(1) Alabama,31,(4) Notre Dame,14,17,False,True,True,True,False,"Rose Bowl (AT&T Stadium - Arlington, Texas)",560,2021,https://www.sports-reference.com/cfb/years/2020-schedule.html
+563,2020-2021,2020,18,2021-01-01,8:00 PM,Fri,(3) Ohio State,49,(2) Clemson,28,21,False,True,True,True,False,"Sugar Bowl (Mercedes-Benz Superdome - New Orleans, Louisiana)",563,2021,https://www.sports-reference.com/cfb/years/2020-schedule.html
+564,2020-2021,2020,18,2021-01-02,12:00 PM,Sat,Kentucky,23,(24) North Carolina State,21,2,False,True,True,True,False,"Gator Bowl (TIAA Bank Field - Jacksonville, Florida)",565,2021,https://www.sports-reference.com/cfb/years/2020-schedule.html
+565,2020-2021,2020,18,2021-01-02,12:30 PM,Sat,Mississippi,26,(7) Indiana,20,6,False,True,True,True,False,"Outback Bowl (Raymond James Stadium - Tampa, Florida)",566,2021,https://www.sports-reference.com/cfb/years/2020-schedule.html
+566,2020-2021,2020,18,2021-01-02,4:00 PM,Sat,(12) Iowa State,34,(25) Oregon,17,17,False,True,True,True,False,"Fiesta Bowl (State Farm Stadium - Glendale, Arizona)",564,2021,https://www.sports-reference.com/cfb/years/2020-schedule.html
+567,2020-2021,2020,18,2021-01-02,8:00 PM,Sat,(5) Texas A&M,41,(14) North Carolina,27,14,False,True,True,True,False,"Orange Bowl (Hard Rock Stadium - Miami Gardens, Florida)",567,2021,https://www.sports-reference.com/cfb/years/2020-schedule.html
+568,2020-2021,2020,19,2021-01-11,8:00 PM,Mon,(1) Alabama,52,(3) Ohio State,24,28,False,True,True,True,False,"College Football Playoff National Championship (Hard Rock Stadium - Miami Gardens, Florida)",568,2021,https://www.sports-reference.com/cfb/years/2020-schedule.html
+569,2020-2021,2020,20,2021-02-21,5:00 PM,Sun,Tarleton State,43,New Mexico State,17,26,True,False,True,True,False,"Aggie Memorial Stadium - Las Cruces, New Mexico",569,2021,https://www.sports-reference.com/cfb/years/2020-schedule.html
+570,2020-2021,2020,21,2021-03-07,5:00 PM,Sun,New Mexico State,36,Dixie State,29,7,False,True,True,True,False,"Sun Bowl - El Paso, Texas",570,2021,https://www.sports-reference.com/cfb/years/2020-schedule.html
